@@ -1,0 +1,41 @@
+.answer {
+  display: flex;
+  margin: 5px 0 0 30px;
+  min-width: 150px;
+  height: 40px;
+  background-color: #ffffff;
+  border: 1px solid var(--primary2);
+  border-radius: 30px;
+}
+
+.answer:hover {
+  cursor: pointer;
+  background-color: #aaaaaa;
+}
+
+.selected {
+  background-color: #aaaaaa;
+}
+
+.icon {
+  width: 30px;
+  height: 30px;
+  margin: 1px;
+  border: 2px solid gray;
+  border-radius: 50px;
+}
+
+.true {
+  background-image: url("./true.png");
+  background-size: cover;
+}
+
+.false {
+  background-image: url("./false.png");
+  background-size: cover;
+}
+
+.desc {
+  margin: 10px 5px;
+  color: var(--text1);
+}

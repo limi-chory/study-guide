@@ -1,0 +1,21 @@
+.container {
+  margin: 5px 30px;
+  padding: 8px;
+  border: 1px solid var(--text1);
+  color: var(--text2);
+  border-radius: 5px;
+}
+
+.quote-text {
+  margin: 2px;
+}
+
+.quote-underline {
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+.from {
+  text-align: right;
+  margin: 10px 5px 2px;
+}

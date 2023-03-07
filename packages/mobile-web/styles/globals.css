@@ -1,0 +1,14 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --text1: #212529;
+  --text2: #495057;
+  --text3: #dbe3db;
+  --text4: #f1f3f5;
+  --primary1: #12b886;
+  --primary2: #20c997;
+}
